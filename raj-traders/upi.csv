@@ -1,0 +1,24 @@
+Date,Direction,Amount (₹),Counterparty,UPI ID,Description
+02-May-2025,IN,"₹23,400",Shree Hardware Co.,shreehardware@icici,Payment for Invoice #534
+05-May-2025,OUT,"₹14,200",Power Utilities Punjab,punebillpay@upi,Electricity Bill – May
+09-May-2025,OUT,"₹18,500",FastFix Tools Supplier,fastfix@axis,Raw material payment
+12-May-2025,IN,"₹58,000",Premier Auto Ltd.,premierauto@hdfcbank,Order #PA721
+16-May-2025,OUT,"₹7,600",Mobile Recharge,airtel.prepaid@upi,Employee phones
+20-May-2025,IN,"₹31,200",Retail Buyer (Goyal),goyalretail@ybl,Local retail tool supply
+28-May-2025,OUT,"₹55,000",Worker Salary Batch,salarybatch@upi,May salary disbursal
+,,,,,
+01-Jun-2025,IN,"₹66,000",Sethi Traders,sethitraders@icici,Invoice Payment
+04-Jun-2025,OUT,"₹22,000",MetroSteel Pvt. Ltd.,metropipes@upi,Pipe order
+08-Jun-2025,OUT,"₹13,250",Office Internet (Airtel),airtel.business@upi,Monthly broadband
+12-Jun-2025,IN,"₹88,500",Rajendra Engineering Works,rajendraeng@axis,Bulk supply of cutting tools
+19-Jun-2025,OUT,"₹5,000",Staff Tiffin Vendor,dabbawala@upi,June canteen expenses
+23-Jun-2025,IN,"₹42,300",Mishra Auto,mishra.auto@upi,Order #MA995
+29-Jun-2025,OUT,"₹55,000",Worker Salary Batch,salarybatch@upi,June salary disbursal
+,,,,,
+03-Jul-2025,IN,"₹76,800",G-Tech Engineering,gtech@okicici,Tools delivered
+05-Jul-2025,OUT,"₹18,000",Building Maintenance,upkeepco@upi,Paint + Repairs
+09-Jul-2025,OUT,"₹6,400",Courier Logistics,courierxpress@ybl,Shipping charges
+14-Jul-2025,IN,"₹38,000",Local Machinery Store,machinelocal@ybl,Order #LM302
+21-Jul-2025,IN,"₹19,500",Saroj Tools,sarojtools@upi,Reseller Purchase
+26-Jul-2025,OUT,"₹55,000",Worker Salary Batch,salarybatch@upi,July salary disbursal
+30-Jul-2025,OUT,"₹8,800",TNEB Electricity,tneb@upi,Power Bill – July
